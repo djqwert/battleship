@@ -1,4 +1,4 @@
-# battleship
+# Battleship
 A simple battleship game developed for Computer network course.
 
 # Installation
